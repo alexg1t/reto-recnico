@@ -39,8 +39,8 @@ git clone https://github.com/alexg1t/reto-tecnico.git
 
 2. Otorga permisos de ejecución a los scripts:
 ```bash
-chmod +x generador_csv.py
-chmod +x resumen_csv.py
+chmod +x gen.py
+chmod +x res.py
 ```
 
 ## Uso
