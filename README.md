@@ -33,7 +33,7 @@ Los scripts están escritos en Python y utilizan solo módulos de la biblioteca 
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/alexg1t/reto-codeable.git
+git clone https://github.com/alexg1t/reto-tecnico.git
 
 ```
 
